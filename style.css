@@ -16,7 +16,17 @@
 }
 #body{
     background-color: darkslategray;
+
+    
 }
+
+
+.index-body{
+    background-color: darkslategray;
+    text-align: center;
+}
+
+
 #table{
     color: White;
    
@@ -25,3 +35,26 @@
     color: white;
 }
 
+
+.heading{
+font-size: 26px;
+text-align: center;
+
+}
+
+.nav-list{
+    list-style: none;
+   text-align: end;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 20px;
+    justify-content: end;
+}
+
+
+.main-img{
+   align-items: center;
+}
