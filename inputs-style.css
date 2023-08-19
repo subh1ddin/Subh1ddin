@@ -1,0 +1,102 @@
+.body{
+    background-color:#2f4f4f;
+}
+
+.heading{
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+}
+
+.market{
+    color: #fff;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.fieldset-h3{
+    color: #fff;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center  ;
+}
+
+.market-label{
+    color: #fff;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+.table{
+    color:#fff;
+    text-align: center;
+    
+}
+
+.table-caption{
+    color: #fff;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.table-item{
+    color: #fff;
+    font-size: 24px;
+    font-family: monospace;
+}
+
+
+.select-label{
+    color: #fff;
+    font-size: 22px;
+    font-family: cursive;
+
+}
+
+.select-option{
+    font-size: 16px;
+    font-family: cursive;
+}
+
+.tolov-usuli{
+    color: #fff;
+    font-family: cursive;
+    font-size: 22px;
+    text-align: center;
+}
+
+.naqt{
+    color: #fff;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.karta{
+    color: #fff;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.shartlar{
+    color: #fff;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.div-link{
+    text-align: center;
+}
+
+.link{
+    color: #fff;
+    font-size: 24px;
+    font-family: cursive;
+    text-decoration: none;
+}
+
+.marquee{
+    color: #fff;
+    font-size: 15px;
+    font-family: cursive;
+}
