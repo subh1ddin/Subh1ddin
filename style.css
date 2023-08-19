@@ -1,12 +1,42 @@
-.main-img{
-    align-items: center;
- }
+#color {
+    color: white;
+}
+#h2 {
+    text-align: center;
+    color: white;
+}
+#boshsahifa{
+    text-align: center;
+    color: white;
+   
+}
+.body2{
+    background-color: darkslategray;
+    text-align: center;
+}
+#body{
+    background-color:darkslategray;
+}
 
- .nav-link{
-    text-decoration: none;
-    font-family: cursive;
-    font-size: 20px;
-    justify-content: end;
+
+.index-body{
+    background-color: darkslategray;
+    text-align: center;
+}
+
+
+#table{
+    color: White;
+   
+}
+.ll{
+    color: white;
+}
+
+
+.heading{
+font-size: 26px;
+text-align: center;
 }
 
 .nav-list{
@@ -14,16 +44,14 @@
    text-align: end;
 }
 
-.heading{
-    font-size: 26px;
-    text-align: center;
-    }
+.nav-link{
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 20px;
+    justify-content: end;
+}
 
-    .ll{
-        color: white;
-    }
 
-    .index-body{
-        background-color: darkslategray;
-        text-align: center;
-    }
+.main-img{
+   align-items: center;
+}
