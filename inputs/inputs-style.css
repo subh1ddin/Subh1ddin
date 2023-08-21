@@ -30,8 +30,6 @@
 
 .table{
     color:#fff;
-    text-align: center;
-    
 }
 
 .table-caption{
@@ -95,8 +93,18 @@
     text-decoration: none;
 }
 
+.link:hover{
+    color: rgb(189, 223, 253);
+}
+
 .marquee{
     color: #fff;
     font-size: 15px;
     font-family: cursive;
+}
+
+table{
+    text-align: center;
+    width: 80%;
+    height: 80%;
 }

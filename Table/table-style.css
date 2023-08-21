@@ -1,0 +1,48 @@
+.body{
+    background-color: #2f4f4f;
+}
+
+
+.table{
+    color: #fff;
+}
+
+
+.caption{
+    color: #fff;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+
+.thead-th{
+    font-size: 20px;
+}
+
+
+.tbody-td{
+    font-family:cursive ;
+}
+
+.div-link{
+    text-align: center;
+}
+
+.link{
+    color:#fff;
+    font-size: 20px;
+    font-family: cursive;
+    text-decoration: none;
+}
+
+
+.link:hover{
+    color: rgb(189, 223, 253);
+}
+
+
+.marquee{
+    color: #fff;
+    font-family: cursive;
+    font-size: 15px;
+}
