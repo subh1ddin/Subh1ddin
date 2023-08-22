@@ -22,9 +22,16 @@
     text-align: center  ;
 }
 
-.market-label{
+.ism-label{
     color: #fff;
     font-size: 22px;
+    font-family: cursive;
+}
+
+
+.emile-label{
+    color: #fff;
+    font-size: 21px;
     font-family: cursive;
 }
 
