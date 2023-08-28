@@ -4,17 +4,20 @@ body{
     background-color: #2f4f4f;
     box-sizing: border-box;
 }
+
 .header {
     display: flex;
     background-color: #1a2e2e;
-    width: 100%;
+    width: 100% !important;
     height: 70px;
     justify-content: space-between;
 }
+
 .logo {
     margin: 20px;
     font-size: 25px;
 }
+
 .logo-link {
     text-decoration: none;
     color: white;
@@ -23,10 +26,12 @@ body{
 
 .logo-link:hover{
     color: rgb(189, 223, 253);
-}
+} 
+
 .nav {
 margin-top: 10px;
 }
+
 .nav-list{
     list-style: none;
     display: inline-block;
